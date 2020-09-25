@@ -106,6 +106,12 @@ button:disabled {
     margin: 0 auto;
 }
 
+.warning {
+    text-align: center;
+    color: white;
+    padding-top: 20px;
+}
+
 ul, li {
     text-align: left;
     list-style: none;
